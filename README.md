@@ -16,9 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/sc4rv/sc4rv/main/pasek.png" width="100%">
 
-### - Working on 
-
-![XScarMultiToolFreeNotPublishedYet](https://img.shields.io/badge/-%E2%9C%A8%20XSCAR%20MultiTool%20%5BFree%5D%20(Not%20Published%20Yet)-ffb8ca)
 
 <img src="https://raw.githubusercontent.com/sc4rv/sc4rv/main/pasek.png" width="100%">
 
