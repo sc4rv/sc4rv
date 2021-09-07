@@ -5,7 +5,7 @@
 
 ![He/Him/His](https://img.shields.io/badge/-%F0%9F%91%A6%20He%2FHim%2FHis-7dafff)
 ![Weeb](https://img.shields.io/badge/-%F0%9F%8C%BA%20Weeb-ffb8f9)
-![Pansexual](https://img.shields.io/badge/-%F0%9F%92%97%20Pansexual-ff5cb3)
+![Omnisexual](https://img.shields.io/badge/%E2%9D%A4-Omnisexual-red)
 
 <img src="https://raw.githubusercontent.com/sc4rv/sc4rv/main/pasek.png" width="100%">
 
