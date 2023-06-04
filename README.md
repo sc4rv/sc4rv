@@ -9,9 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/sc4rv/sc4rv/main/pasek.png" width="100%">
 
-
-<img src="https://raw.githubusercontent.com/sc4rv/sc4rv/main/pasek.png" width="100%">
-
 ### Stats
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=sc4rv&hide_title=true&hide_border=true&theme=cobalt&show_icons=true&include_all_commits=true&&line_height=21"/>
